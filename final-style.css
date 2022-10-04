@@ -1,0 +1,71 @@
+/* style body text */
+body {
+    font-family: 'Nunito Sans', Arial, Helvetica, sans-serif;
+    font-weight: 300;
+}
+
+/* style resume headings */
+h2 {
+    font-weight: 900;
+    padding: 20px 0 12px 0;
+    border-bottom: 1px solid #DFE2E6;
+}
+
+/* padding */
+.row {
+    padding-top: 30px;
+}
+
+.bold {
+    font-weight: 600;
+}
+
+/* style links */
+a:link {
+    color: #808080;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: #808080;
+}
+
+a:active {
+    color: grey;
+}
+
+/* style yt embed */
+iframe {
+    max-width: 100%;
+}
+
+/* style subheading */
+h3 {
+    font-weight:700;
+    text-transform: lowercase;
+}
+/* style date */
+.date {
+    font-weight: 300;
+    font-size: 1.10em;
+    letter-spacing: 2px;
+    font-style:italic;
+    color: #808080;
+    padding-bottom: 5px;
+    text-transform: lowercase;
+}
+
+/* style info */
+.description {
+    font-size: 1.15em;
+    line-height: 1.5;
+    text-transform: lowercase;
+}
+
+/* style footer */
+footer {
+    text-align: right;
+}
