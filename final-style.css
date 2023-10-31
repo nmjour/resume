@@ -5,6 +5,11 @@ body {
     text-transform: lowercase;
 }
 
+/* head */
+h1 {
+    font-weight: 900;
+}
+
 /* style resume headings */
 h2 {
     font-weight: 900;
@@ -46,24 +51,6 @@ iframe {
 /* style subheading */
 h3 {
     font-weight:700;
-    text-transform: lowercase;
-}
-
-/* style date */
-.date {
-    font-weight: 300;
-    font-size: 1.10em;
-    letter-spacing: 2px;
-    font-style:italic;
-    color: #808080;
-    padding-bottom: 5px;
-    text-transform: lowercase;
-}
-
-/* style info */
-.description {
-    font-size: 1.15em;
-    line-height: 1.5;
     text-transform: lowercase;
 }
 
